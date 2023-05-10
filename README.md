@@ -1,5 +1,7 @@
 # 2023-seminar-previous.term
-2023前期のゼミの実装結果をまとめるレポジトリ
+2023前期のゼミの実装結果をまとめるレポジトリ<br>
+【最終目標】<br>
+音声認識を行い、カラオケの採点システムのようなものを実装する
 
 [実験サイト](http://www.sap.ist.i.kyoto-u.ac.jp/members/inoue/le4-audio/)  <br>
 [授業PDF](https://drive.google.com/file/d/1kUTLW88KxTm--3_VQFFObd-vioAEgRci/view)  <br>
