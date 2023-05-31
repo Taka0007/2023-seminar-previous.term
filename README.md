@@ -40,3 +40,7 @@
 [2] [colab音声録音コード](https://gist.github.com/tam17aki/8bfa2a42dab0061ee2641aed32dd1d30) <br>
 
 [3] [深層学習→音声分離](https://olaris.jp/poststag/PPrQHWLo)
+
+
+### 参考文献
+[1]亀岡 弘和. (2012). 非負値行列因子分解の 音響信号処理へ の 応用. 日本音響学会誌 Pp ，559−565, 68(11), 559–565. https://www.jstage.jst.go.jp/article/jasj/68/11/68_KJ00008328910/_pdf
