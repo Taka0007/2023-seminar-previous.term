@@ -5,8 +5,10 @@
 
 [実験サイト](http://www.sap.ist.i.kyoto-u.ac.jp/members/inoue/le4-audio/)  <br>
 [授業PDF](https://drive.google.com/file/d/1kUTLW88KxTm--3_VQFFObd-vioAEgRci/view)  <br>
-[実装colab](https://colab.research.google.com/drive/1npe5XEhCqQaWDQRtWXWtYRGTwpfrGlK-?usp=sharing)  <br>
-[実装colab(演習まとめ)](https://colab.research.google.com/drive/1RpWJsgsY9erMXcP02v2-iT-elTfHIvR3#scrollTo=8uA5f9-hU4Sf)
+[実装colab](https://colab.research.google.com/drive/1npe5XEhCqQaWDQRtWXWtYRGTwpfrGlK-?usp=sharing)<br>
+[NMF実装colab](https://colab.research.google.com/drive/1XC-Fa54Lu52Mqn1iJz524WV4HCKecOfe#scrollTo=78YuAno_mU0E)<br>
+[実装colab(演習まとめ)](https://colab.research.google.com/drive/1RpWJsgsY9erMXcP02v2-iT-elTfHIvR3#scrollTo=8uA5f9-hU4Sf)<br>
+
 
 
 ## タイムライン
