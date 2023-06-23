@@ -45,8 +45,5 @@
 
 
 ### 参考文献
-[1]亀岡 弘和. (2012). 非負値行列因子分解の 音響信号処理へ の 応用. 日本音響学会誌 Pp ，559−565, 68(11), 559–565. <br> https://www.jstage.jst.go.jp/article/jasj/68/11/68_KJ00008328910/_pdf  <br>
-
-[2]
-
+[Reference-Lists.txt](https://github.com/Taka0007/2023-seminar-previous.term/blob/main/Reference-Lists.txt)を参照
 
