@@ -1,0 +1,2 @@
+[1] 吉井和佳, 中村栄太, 糸山克寿, & 後藤真孝. (2016). NMF vs PLCA; 多重音生成過程のための無限因子モデルと無限混合モデル. 情報処理学会研究報告, 2016-MUS-112(21). http://sap.ist.i.kyoto-u.ac.jp/members/yoshii/papers/sigmus-2016-1-yoshii.pdf
+[2]
